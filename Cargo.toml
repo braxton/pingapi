@@ -12,6 +12,6 @@ actix-web = { version = "3", features = ["compress", "openssl"] }
 actix-cors = "0.5.4"
 env_logger = "0.8.3"
 log = "0.4.14"
-openssl = "0.10.33"
+openssl = "0.10.55"
 redis = "0.20.0"
 serde = "1.0.125"
